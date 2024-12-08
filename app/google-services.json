@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "847658595385",
+    "firebase_url": "https://jetpack-firebase-6aabb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "jetpack-firebase-6aabb",
+    "storage_bucket": "jetpack-firebase-6aabb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847658595385:android:be1c7f7dbae243003489e8",
+        "android_client_info": {
+          "package_name": "com.example.google_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847658595385-7pfh3cd6pie1k9ahegeio857qk07gjre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.google_firebase",
+            "certificate_hash": "be7b2800bb13e2a356011731070d2740f16771bf"
+          }
+        },
+        {
+          "client_id": "847658595385-3tu781m2iejf0nr66ie6qv0vh428spea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0xhpUDM3TvsR1Y6giZ6qj4bw0HgIIIfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847658595385-3tu781m2iejf0nr66ie6qv0vh428spea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
